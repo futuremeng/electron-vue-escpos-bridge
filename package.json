@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "author": "FutureMeng <futuremeng@gmail.com>",
   "description": "An electron-vue project",
-  "license": null,
+  "license": "MIT",
+  "repository": "https://github.com/futuremeng/electron-vue-escpos-bridge",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder",
