@@ -53,8 +53,10 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "dot-prop": "^5.2.0",
     "escpos": "^3.0.0-alpha.4",
     "http-server": "^0.12.3",
+    "jpeg-js": "^0.4.1",
     "vue": "^2.5.16",
     "vue-electron": "^1.0.6",
     "vue-router": "^3.0.1",
