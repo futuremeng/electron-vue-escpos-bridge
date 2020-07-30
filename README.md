@@ -1,6 +1,13 @@
+<!--
+ * @Date: 2020-07-29 18:21:31
+ * @LastEditors: Future Meng
+ * @LastEditTime: 2020-07-30 11:38:36
+--> 
 # electron-vue-escpos-bridge
 
 > An electron-vue project
+> 这个项目基于electron-vue构建，但发现electron-vue版本一直没有更新，存在很多安全风险，现在改造的成本有点高，所以放弃，转向https://github.com/nklayman/vue-cli-plugin-electron-builder这个方案。
+> 了解本项目最新进展请转到https://github.com/futuremeng/vue-electron-builder-escpos-printer-bridge
 
 #### Build Setup
 
